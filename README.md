@@ -33,14 +33,15 @@
     -> where you can add your teammate to collaborate. <br>
     -> create new database [with "browse collections" button] (see further instructions) <br>
     -> create an app in "App services" tab <br>
+    <b>Go to "Browse Collections"</b>
  <img src="images/20.png"/>
  
  <br>
- 7. Go to "Browse Collections", will get following page
+ 7.  Go to "Add My own Data" option
  <img src="images/08.png"  width="60%"/>
  
    <br>
- 8. Go to "Add My own Data" option, which will ask you database name and collection name, fill that and create a collection
+ 8. provide your database name and collection name, and create a collection
  <img src="images/09.png"  width="60%"/>
  
  <br>
@@ -153,10 +154,3 @@ dependencies {
 ```
 
 Follow the project to perform CRUD operations
-
-
-  
- 
- 
-
-
