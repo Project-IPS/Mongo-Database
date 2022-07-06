@@ -42,7 +42,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     //unique app id
-    private var appId = //TODO("Enter Your App Id")
+    private var appId = "application-0-civum"
 
 
     //MongoDb fields
